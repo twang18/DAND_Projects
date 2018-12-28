@@ -30,7 +30,7 @@
 - pandas, numpy, matplotlib, seaborn
 - python version: 3.6
 
-###文件描述
+### 文件描述
 - pm2.5project.ipynb: 主要的代码实现和分析文件
 - ChengduPM20100101_20151231.csv: 成都从2010年到2015年这6年整的PM2.5的数据集
 - ShanghaiPM20100101_20151231.csv: 上海从2010年到2015年这6年整的PM2.5的数据集
