@@ -18,7 +18,7 @@
 - matplotlib
 - random
 
-###文件描述
+### 文件描述
 
 - analyze-ab-test.ipynb: 完整的数据分析代码和报告文件
 - ab_data.csv: A/B分析的测试结果
