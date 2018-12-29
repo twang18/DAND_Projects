@@ -41,7 +41,7 @@
 - 文本编辑器，例如 [Sublime](https://www.sublimetext.com/) 或 [Atom](https://atom.io/)。
 - 终端应用（Mac 和 Linux 上的终端和 Windows 上的 Cygwin）。
 
-###文件描述
+### 文件描述
 
 - bikeshare.py: python代码文件
 - 三个城市的单车数据集：chicago.csv, new_york_city.csv, washington.csv
