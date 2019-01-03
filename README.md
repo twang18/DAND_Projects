@@ -29,3 +29,25 @@
 
    **所需技能**：python,  jupyter notebook，pandas, numpy, matplotlib，统计与概率，回归模型
 
+### Udacity Data Analysis Nanodegree project portfolio
+
+**PM2.5 Data Analysis of Five Cities in China**
+•	Define questions; conduct data wrangling and exploratory data analysis with data visualization and feature engineering
+•	Draw conclusions based on the results and convey the results and insights with jupyter notebook
+
+**Forecast of Weather Trend with Global and Local Weather Data**
+•	Extract both global and local weather data from SQL Database by SQL inquiry and save the file as .CSV file
+•	Create moving average plots of both  global and local weather with Excel spreadsheet
+•	Draw conclusions from the plots and make comparison between global and local weather trend
+
+**Bikeshare Data Analysis**
+•	Load bikeshare data of three cities of Chicago, New York, Washington
+•	Write python scripts which accept interactive inquiry and provide statistics on the bikeshare data (eg. which route between the start and end station is the most popular? Which day is the busiest?)
+
+**Data Analysis on TMDb movie dataset**
+•	Define three questions on TMDb data set; perform data analysis with NumPy and Pandas and data visualization with Matplotlib
+•	Draw conclusions based on the analysis and convey the results and insights with jupyter notebook
+
+**A/B Test Results Analysis**
+•	Perform data analysis and apply inferential statistics on the data set
+•	Perform A/B test and then logistic regression with Jupyter notebook
